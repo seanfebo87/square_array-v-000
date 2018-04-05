@@ -4,7 +4,5 @@ def square_array(array)
      ar = []
     ar.push(new)
     return ar
-    
-    
   end
 end
